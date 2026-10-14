@@ -1,6 +1,6 @@
 # Used Cars Simulator — PC notes
 
-Short Windows checklist for Used Cars Simulator. I keep the live option list (+54) and file on the listing below; this repo is just a public bookmark with a bit of context.
+Short Windows checklist for Used Cars Simulator. I keep the live +54 option list and file on the listing below; this repo is just a public bookmark with a bit of context.
 
 Listing: [https://moggydaytrainer.com/en/f/used-cars-simulator-trainer](https://moggydaytrainer.com/en/f/used-cars-simulator-trainer)
 
@@ -10,9 +10,11 @@ Build string on that page: **v1.0.0**. It currently shows **+54** rows. A few of
 
 | # | Name |
 |---|---|
-| 1 | car condition |
-| 2 | cash |
-| 3 | parts |
+| 1 | Download the official MoggyDay Used Cars Simulator trainer +54: energy |
+| 2 | car condition |
+| 3 | cash |
+| 4 | parts |
+| 5 | lot spaces in TrainerHub. The option list matches the launcher pack. |
 
 I do not attach an executable here. If the game patches, reload the same URL.
 
